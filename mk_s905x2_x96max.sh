@@ -152,7 +152,7 @@ INITRD=/uInitrd
 # 下列 dtb，用到哪个就把哪个的#删除，其它的则加上 # 在行首
 
 # 用于 X96 Max
-FDT=/dtb/amlogic/meson-g12a-x96-max.dtb
+FDT=/dtb/amlogic/meson-gxl-s905l2-x7-5g.dtb
 
 # 用于 X96 Max (2G内存版本:100M网卡)
 #FDT=/dtb/amlogic/meson-g12a-x96-max-rmii.dtb
